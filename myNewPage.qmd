@@ -1,0 +1,6 @@
+---
+title: "My new page"
+author: "Andrew Hayes"
+---
+
+This is a new page
